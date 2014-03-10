@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN" dropEffect="none" class="no-js no-auth">
 <head>
 <meta charset="utf-8" />
